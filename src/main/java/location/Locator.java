@@ -1,3 +1,5 @@
+package location;
+
 import com.google.gson.Gson;
 
 import java.io.InputStreamReader;
