@@ -52,6 +52,5 @@ public class UnionAndIntersectionOfTwoArray {
         u.union();
         System.out.println("\nIntersection ");
         u.intersection();
-
     }
 }
