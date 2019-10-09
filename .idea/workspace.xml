@@ -2,102 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86e7aed2-0c5f-412d-8f09-41f51b266ebc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oauth/StravaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/schedulers/QuartzInit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classloder/Visibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/CreatingInstanceOfGenericType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/competitive/UnionAndIntersectionOfTwoArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/devox/Sample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dryrun/IteratorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dryrun/Maventic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dryrun/One.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dryrun/Planet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/BoundedWildCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/GenericConstructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/GenericMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/One.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/RowTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Two.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instanceOf/InstanceOf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/Deletion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/location/Location.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/location/Locator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/location/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/location/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/location/Locator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/location/Locator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maths/EuclidsGCD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maths/FibonacciSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/maths/PrimeNumbeTools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regex/CharacterClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regex/One.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regex/Split.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regex/Three.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regex/Two.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/BubbleSortPlus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/IncertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/Collecting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/Mapping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/Mapping2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/NamePhone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/NamePhoneEmail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/ParallelReduce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/Reduce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/SimpleExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/techGig/CandidateCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/techGig/CandidateCode1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/regex/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/regex/Four.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/techGig/CandidateCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/techGig/CandidateCode1.java" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/schedulers/QuartzInit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/schedulers/HelloJob.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,28 +66,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/competitive/IntersactionOfTwoArray.java" />
-        <option value="$PROJECT_DIR$/src/competitive/Intersection.java" />
-        <option value="$PROJECT_DIR$/src/competitive/IntersectionOfArray.java" />
-        <option value="$PROJECT_DIR$/src/competitive/IntersectionOfTwoArray.java" />
-        <option value="$PROJECT_DIR$/src/competitive/UnionOfTwoArray.java" />
-        <option value="$PROJECT_DIR$/src/competitive/UnionAndIntersectionOfTwoArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/streams/Mapping2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/location/Locator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/location/Location.java" />
-        <option value="$PROJECT_DIR$/src/main/java/oauth/StravaTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/oauth/JavaStravaTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/schedulers/SlingSchedulerExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/schedulers/HelloJob.java" />
-        <option value="$PROJECT_DIR$/src/main/java/schedulers/QuartzInit.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -146,99 +73,32 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="practice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="practice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="30" />
-    <option name="width" value="1366" />
-    <option name="height" value="738" />
-  </component>
+  <component name="ProjectId" id="1Ox1LYfkXVYtHLO1jt5H1UCdIFu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="schedulers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="techGig" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543057431560" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543578017902" />
+    <property name="last_opened_file_path" value="/usr/lib/jvm/java-1.8.0-openjdk-amd64/src.zip!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/aws_key_problem" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -254,13 +114,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuartzInit">
-    <configuration name="QuartzInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="schedulers.QuartzInit" />
+  <component name="RunManager" selected="Application.Visibility">
+    <configuration name="CompletableFutureExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.CompletableFutureExamples" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="schedulers.*" />
+          <option name="PATTERN" value="concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +128,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StravaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oauth.StravaTest" />
+    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regex.Four" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oauth.*" />
+          <option name="PATTERN" value="regex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Reduce" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Visibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classloder.Visibility" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classloder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,10 +169,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuartzInit" />
-        <item itemvalue="Application.StravaTest" />
+        <item itemvalue="Application.Visibility" />
+        <item itemvalue="Application.Four" />
+        <item itemvalue="Application.CompletableFutureExamples" />
+        <item itemvalue="Application.Reduce" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -306,51 +204,44 @@
       <workItem from="1542972546530" duration="8600000" />
       <workItem from="1543041575381" duration="3631000" />
       <workItem from="1543056429766" duration="971000" />
+      <workItem from="1543573117313" duration="2086000" />
+      <workItem from="1555738200218" duration="4008000" />
+      <workItem from="1555912064545" duration="60000" />
+      <workItem from="1555912186740" duration="174000" />
+      <workItem from="1556953006413" duration="8600000" />
+      <workItem from="1563712890112" duration="3972000" />
+      <workItem from="1564904380638" duration="1745000" />
+      <workItem from="1564987361925" duration="16000" />
+      <workItem from="1564988805319" duration="605000" />
+      <workItem from="1565062415932" duration="4444000" />
+      <workItem from="1565589264031" duration="1212000" />
+      <workItem from="1565779549238" duration="2400000" />
+      <workItem from="1565937952498" duration="2305000" />
+      <workItem from="1568557192223" duration="1014000" />
+      <workItem from="1569041953892" duration="5211000" />
+      <workItem from="1569075665728" duration="682000" />
+      <workItem from="1569159895526" duration="1389000" />
+      <workItem from="1569677817187" duration="4725000" />
+      <workItem from="1570513362091" duration="1010000" />
+      <workItem from="1570536793703" duration="8689000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24206000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1366" height="738" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27045456" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43842363" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.55829227" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.6026273" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32840723" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32954547" />
-      <window_info anchor="right" id="Maven" order="9" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -358,132 +249,9 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/oauth/StravaTest.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>ManagementFactory.getRuntimeMXBean().getName()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ManagementFactory.getRuntimeMXBean().getObjectName()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ManagementFactory.getRuntimeMXBean().getSpecName()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practice.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/devox/Sample.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/competitive/IntersectionOfTwoArray.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/competitive/UnionAndIntersectionOfTwoArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/dryrun/One.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/BoundedWildCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1656">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/streams/Mapping2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/location/Location.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/location/Locator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="56" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oauth/StravaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/oauth/JavaStravaTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/schedulers/QuartzInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/schedulers/HelloJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

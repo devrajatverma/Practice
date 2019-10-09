@@ -4,8 +4,19 @@ import java.util.regex.*;
 
 public class Four {
     public static void main(String[] args) {
-        String a = new String("one");
-        String b = a;
-        System.out.println(a == b);
+
+    }
+
+    @Override
+    public String toString(){
+        return "Parent";
+    }
+}
+
+class ChildFour extends Four{
+
+
+    void mA(){
+        System.out.println("Child");
     }
 }
