@@ -9,8 +9,9 @@ public class SimpleExample {
 	public static void main(String[] args) {
 		List<Integer> myList = Arrays.asList(7, 18, 10, 24, 17, 5);
 		Optional<Integer> min = myList.stream().min(Integer::compare);
-		if (min.isPresent())
+		if (min.isPresent()) {
 			System.out.println(min.get());
+		}
 
 		System.out.println("----------------------------------------");
 		Stream<Integer> stream = myList.stream();
