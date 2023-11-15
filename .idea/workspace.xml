@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86e7aed2-0c5f-412d-8f09-41f51b266ebc" name="Default Changelist" comment="Stream dept wise salary avg">
-      <change afterPath="$PROJECT_DIR$/src/main/java/competitive/CommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/Receiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/Sender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/SortedMapByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams/CharacterOccurance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="86e7aed2-0c5f-412d-8f09-41f51b266ebc" name="Default Changelist" comment="added sender receiver, sorted map by value, char occurance, CommonPrefix , interface static and default methods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,16 +75,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Practice&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Practice/src/main/java/interfaces/static_method&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Practice\src\main\java\interfaces\static_method" />
       <recent name="$PROJECT_DIR$/src/main/java/aws_key_problem" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Java8TimeZoneConversion">
     <configuration name="CharacterOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streams.CharacterOccurance" />
       <module name="practice" />
@@ -120,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeptWiseSalaryAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.DeptWiseSalaryAvg" />
+    <configuration name="Java8TimeZoneConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="date_time.Java8TimeZoneConversion" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="date_time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java8TimeZoneConversion" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.CommonPrefix" />
         <item itemvalue="Application.CharacterOccurance" />
         <item itemvalue="Application.SortedMapByValue" />
-        <item itemvalue="Application.DeptWiseSalaryAvg" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698132462298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added sender receiver, sorted map by value, char occurance, CommonPrefix , interface static and default methods">
+      <option name="closed" value="true" />
+      <created>1699271146657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699271146657</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +249,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stream dept wise salary avg" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream dept wise salary avg" />
+    <MESSAGE value="added sender receiver, sorted map by value, char occurance, CommonPrefix , interface static and default methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sender receiver, sorted map by value, char occurance, CommonPrefix , interface static and default methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
